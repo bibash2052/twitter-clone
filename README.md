@@ -14,4 +14,4 @@ yarn
 quasar dev
 ```
 
-### Add your own firebase configuration to the file firebase.js inside boot folder
+### Add your own firebase configuration to the file firebase.js inside src/boot folder
