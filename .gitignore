@@ -33,4 +33,4 @@ yarn-error.log*
 *.sln
 
 
-./src/boot/**
+/src/boot/**
