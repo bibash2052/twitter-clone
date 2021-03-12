@@ -1,6 +1,6 @@
 # twitter-clone (twitter-clone)
 
-A Quasar Framework app for twitter clone
+A Quasar Framework app for twitter clone with firebase as backend.
 
 ## Install the dependencies
 
@@ -15,13 +15,3 @@ quasar dev
 ```
 
 ### Add your own firebase configuration to the file firebase.js inside boot folder
-
-### Build the app for production
-
-```bash
-quasar build
-```
-
-### Customize the configuration
-
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
